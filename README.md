@@ -1,8 +1,8 @@
 Hello, World 🌏 <br>
 My name is Ikhlasul Amal Santosa <hr>
 
-You can call me Amal. I'm from Indonesia. I'm still new to programming world but someday in the future I want to be a Web Developer especially Back-End Web Developer.
-I'm still on my way to become a Back-End Web Developer. Currently, I'm still learning Python Language and some of the Data Structure and Algorithm needed to become a good Web Developer. 
+You can call me Amal. I'm from Indonesia. I'm still new to programming world but someday in the future I want to be an Ethical Hacker.
+I'm still on my way to become an Ethical Hacker. Currently, I'm still learning Python Language and some of the Data Structure and Algorithm needed to become a good Ethical Hacker. 
 
 What I'm trying to do :
 <ul>
